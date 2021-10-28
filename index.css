@@ -12,7 +12,7 @@
   }
   .header {
     background-color: #666;
-    background-image: url(../images/banner.jpg);
+    background-image: url(banner.jpg);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
